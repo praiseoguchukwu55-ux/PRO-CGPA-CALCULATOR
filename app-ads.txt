@@ -1,0 +1,12 @@
+# app-ads.txt for Exams Venture (hosted at your domain root)
+# Replace `pub-XXXXXXXXXXXXXXX` with your AdSense/AdMob publisher ID.
+# Example record format: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# IMPORTANT: Use the publisher ID exactly as shown in your AdSense/AdMob account.
+
+# Example placeholder — REPLACE BEFORE PUBLISHING:
+google.com, pub-XXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Guidance:
+# - Host this file at https://<your-domain>/app-ads.txt (e.g., https://examsventure.com.ng/app-ads.txt)
+# - Ensure your Play Store "Developer Website" / app listing points to the same domain.
+# - After updating, verify in AdMob that the domain is linked and crawled.
